@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projetoparte2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bycontract": "^2.0.11",
+    "fs": "^0.0.1-security",
+    "math": "^0.0.3",
+    "Math": "^0.0.1-security",
+    "n-readlines": "^1.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
